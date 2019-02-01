@@ -22,3 +22,8 @@ General Concepts
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
   * [Electron compatibility](https://github.com/shelljs/shelljs/wiki/Electron-compatibility)
   * [The make utility](https://github.com/shelljs/shelljs/wiki/The-make-utility)
+***
+Reference
+  * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
+  * [Electron compatibility](https://github.com/shelljs/shelljs/wiki/Electron-compatibility)
+  * [The make utility](https://github.com/shelljs/shelljs/wiki/The-make-utility)
