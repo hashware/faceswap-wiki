@@ -1,1 +1,1 @@
-Install Guide
+Quick Links
