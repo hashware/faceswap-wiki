@@ -12,7 +12,7 @@ Quick Links
 [General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
   * [Model Descriptions](https://github.com/deepfakes/faceswap/wiki/3.1-Model-Descriptions)
   * [Mask Descriptions](https://github.com/deepfakes/faceswap/wiki/3.2-Mask-Descriptions)
-  * [Mask Descriptions](https://github.com/deepfakes/faceswap/wiki/3.2-Mask-Descriptions)
+  * [How can I Contribute](https://github.com/deepfakes/faceswap/wiki/3.3-How-can-I-Contribute)
 ***
 [Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
   * [Command Line Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
