@@ -7,7 +7,7 @@ Quick Links
   * [Linux - Ubuntu](https://github.com/deepfakes/faceswap/wiki/1-Install-Guide)
 ***
 [Usage Guide](https://github.com/deepfakes/faceswap/wiki/2-Typical-Usage-Guide)
-  * [Source Images & Videos](https://github.com/deepfakes/faceswap/wiki/2.1)-Source-Images-&-Videos)
+  * [Source Images & Videos](https://github.com/deepfakes/faceswap/wiki/2.1-Source-Images-&-Videos)
 ***
 [General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
   * [Using ShellJS Plugins]()
