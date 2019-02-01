@@ -12,5 +12,5 @@ Quick Links
 [General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
 ***
-[Reference]
+[Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
