@@ -6,7 +6,7 @@ Quick Links
   * [Windows 10](https://github.com/deepfakes/faceswap/wiki/1-Install-Guide)
   * [Linux - Ubuntu](https://github.com/deepfakes/faceswap/wiki/1-Install-Guide)
 ***
-[Usage Guide]
+[Usage Guide](https://github.com/deepfakes/faceswap/wiki/2-Typical-Usage-Guide)
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
 ***
 ]General Concepts]
