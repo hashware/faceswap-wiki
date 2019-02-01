@@ -13,7 +13,7 @@ Quick Links
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
 ***
 [Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
-  * [Command-Line-Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
-  * [Command-Line-Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
+  * [Command Line Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
+  * [GUI Guide](https://github.com/deepfakes/faceswap/wiki/4.2-GUI-Guide)
   * [Command-Line-Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
   * [External-Resources](https://github.com/deepfakes/faceswap/wiki/4.4-External-Resources)
