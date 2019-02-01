@@ -6,9 +6,9 @@ Quick Links
   * [FAQ](https://github.com/shelljs/shelljs/wiki/FAQ)
 ***
 Install Guide
-  * [Breaking Changes](https://github.com/shelljs/shelljs/wiki/Breaking-Changes)
-  * [Migrating from v0.5.3 to v0.6](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.5.3-to-v0.6)
-  * [Migrating from v0.6 to v0.7](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.6-to-v0.7)
+  * [System Hardware Requirements](https://github.com/deepfakes/faceswap/wiki/1.1)-System-Hardware-Requirements)
+  * [Windows 10](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.5.3-to-v0.6)
+  * [Linux - Ubuntu](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.6-to-v0.7)
 ***
 Usage Guide
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
