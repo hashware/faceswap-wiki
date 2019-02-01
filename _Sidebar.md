@@ -9,7 +9,7 @@ Quick Links
 [Usage Guide](https://github.com/deepfakes/faceswap/wiki/2-Typical-Usage-Guide)
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
 ***
-]General Concepts]
+[General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
 ***
 [Reference]
