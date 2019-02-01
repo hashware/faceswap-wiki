@@ -1,5 +1,4 @@
 Quick Links
-
   * [Home](https://github.com/shelljs/shelljs/wiki/Home)
   * [Roadmap](https://github.com/shelljs/shelljs/wiki/Roadmap)
   * [Contributing](https://github.com/shelljs/shelljs/wiki/Contributing)
@@ -7,14 +6,19 @@ Quick Links
   * [FAQ](https://github.com/shelljs/shelljs/wiki/FAQ)
 
 ***
-
+Install Guide
   * [Breaking Changes](https://github.com/shelljs/shelljs/wiki/Breaking-Changes)
   * [Migrating from v0.5.3 to v0.6](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.5.3-to-v0.6)
   * [Migrating from v0.6 to v0.7](https://github.com/shelljs/shelljs/wiki/Migrating-from-v0.6-to-v0.7)
 
 ***
-
+Usage Guide
   * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
   * [Electron compatibility](https://github.com/shelljs/shelljs/wiki/Electron-compatibility)
   * [The make utility](https://github.com/shelljs/shelljs/wiki/The-make-utility)
 
+***
+General Concepts
+  * [Using ShellJS Plugins](https://github.com/shelljs/shelljs/wiki/Using-ShellJS-Plugins)
+  * [Electron compatibility](https://github.com/shelljs/shelljs/wiki/Electron-compatibility)
+  * [The make utility](https://github.com/shelljs/shelljs/wiki/The-make-utility)
