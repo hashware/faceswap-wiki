@@ -15,5 +15,5 @@ Quick Links
 [Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
   * [Command Line Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
   * [GUI Guide](https://github.com/deepfakes/faceswap/wiki/4.2-GUI-Guide)
-  * [Command-Line-Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
-  * [External-Resources](https://github.com/deepfakes/faceswap/wiki/4.4-External-Resources)
+  * [Sample Conversions & Swaps](https://github.com/deepfakes/faceswap/wiki/4.3-Sample-Conversions-&-Swaps)
+  * [External Resources](https://github.com/deepfakes/faceswap/wiki/4.4-External-Resources)
