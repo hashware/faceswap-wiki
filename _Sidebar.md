@@ -10,7 +10,7 @@ Quick Links
   * [Source Images & Videos](https://github.com/deepfakes/faceswap/wiki/2.1-Source-Images-&-Videos)
 ***
 [General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
-  * [Using ShellJS Plugins]()
+  * [Model Descriptions](https://github.com/deepfakes/faceswap/wiki/3.1-Model-Descriptions)
 ***
 [Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
   * [Command Line Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
