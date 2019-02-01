@@ -11,6 +11,8 @@ Quick Links
 ***
 [General Concepts](https://github.com/deepfakes/faceswap/wiki/3-General-Concepts)
   * [Model Descriptions](https://github.com/deepfakes/faceswap/wiki/3.1-Model-Descriptions)
+  * [Mask Descriptions](https://github.com/deepfakes/faceswap/wiki/3.2-Mask-Descriptions)
+  * [Mask Descriptions](https://github.com/deepfakes/faceswap/wiki/3.2-Mask-Descriptions)
 ***
 [Reference](https://github.com/deepfakes/faceswap/wiki/4-Reference)
   * [Command Line Guide](https://github.com/deepfakes/faceswap/wiki/4.1-Command-Line-Guide)
